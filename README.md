@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi there, I’m Miguel Castillón from Spain 👋 👋
 
+- 🚀 Research Scientist specializing in phase-field models, finite element method, and numerical methods at IMDEA Materials Institute.
+- 🔬 Passionate about computational mechanics.
+- 💻 Computer languages: Python, matlab, C++.
+- 🌍 Always eager to collaborate on exciting projects and share knowledge.
+- 🏃‍♂️ I love running and cycling 🚲.
+- 🏍️ Enthusiast of motorbikes and cars 🏎️.
+- 📫 How to reach me: ✉️ miguelcastillon33@gmail.com 🔗 https://www.linkedin.com/in/miguelcastillon
+
+       
 <!--
 **CastillonMiguel/CastillonMiguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
