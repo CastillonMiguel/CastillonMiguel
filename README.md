@@ -9,6 +9,6 @@
 
 ## Get in Touch 📫
 
-- **Email**: [miguelcastillon33@gmail.com](mailto:miguelcastillon33@gmail.com)
+- **Email**: [miguel.research@pm.me](mailto:miguel.research@pm.me)
 - **LinkedIn**: [Miguel Castillón](https://www.linkedin.com/in/miguelcastillon)
 - **Website**: [https://castillonmiguel.github.io](https://castillonmiguel.github.io)
